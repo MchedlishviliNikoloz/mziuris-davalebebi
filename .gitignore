@@ -7,3 +7,7 @@ Quiz TXT
 Tasks TXT
 files.py
 untitled2.py
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
