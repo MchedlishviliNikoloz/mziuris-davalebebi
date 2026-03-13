@@ -1,0 +1,9 @@
+This is file 1.
+It has two lines.
+End of file 1.
+This is file 2.
+It also has two lines.
+End of file 2.
+This is file 3.
+Only one line here.
+End of file 3.
